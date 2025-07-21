@@ -1,0 +1,22 @@
+Official Procedure for Requesting Leave
+Last Updated: July 21, 2025
+---
+
+This document outlines the process for requesting planned and unplanned leave.
+
+**1. Planned Leave (Vacation, Personal Days)**
+
+- Step 1: Discuss your planned leave dates with your direct manager to ensure there are no major project conflicts.
+- Step 2: After getting verbal confirmation, you must formally submit your leave request through the HR-Connect portal at least two (2) weeks in advance.
+- Step 3: Your leave is only considered approved after you receive a confirmation notification from the HR-Connect portal.
+
+**2. Unplanned Leave (Sick Leave, Emergency)**
+
+- Step 1: You must inform your direct manager via a call or a message on Slack as early as possible, but no later than 10:00 AM IST on the first day of your absence.
+- Step 2: Upon your return to work, you must regularize your absence by submitting a sick leave request in the HR-Connect portal for the dates you were out. For sick leave longer than two days, a medical certificate may be required.
+
+**3. Leave Balance**
+
+You can check your available sick, casual, and earned leave balance at any time on the dashboard of the HR-Connect portal.
+
+For any questions or issues with the portal, please contact the HR department at hr@examplecorp.com.

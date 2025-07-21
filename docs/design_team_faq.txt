@@ -1,0 +1,18 @@
+Design Team - Frequently Asked Questions
+Last Updated: July 21, 2025
+---
+
+Q: How do I request a new design asset (e.g., social media graphic, presentation slide)?
+A: All new design requests must be submitted through the Asana project board named "Design Team Requests". Please use the "New Asset Request" template and fill out all the required fields, including project details, desired dimensions, and deadline.
+
+Q: What is the standard turnaround time for a design request?
+A: Standard requests are typically completed within 3-5 business days. Complex requests, like multi-page brochures or new branding concepts, may take longer. The project lead will provide an estimated timeline once the request is reviewed.
+
+Q: I just need a small change to an existing design. Do I need to fill out a full request?
+A: For minor edits like changing a date or fixing a typo, please post your request in the #design-quick-edits channel on Slack. Tag the original designer if you know who it was. These are usually handled within 24 hours.
+
+Q: Where can I find our company's brand guidelines, logos, and fonts?
+A: All official brand assets and guidelines are located in the "Company Brand Kit" folder on Google Drive. Please ensure you are using the latest versions available there.
+
+Q: What if my request is extremely urgent?
+A: For urgent, business-critical requests, please submit the ticket in Asana and then immediately contact the Design Project Manager, Priya Sharma, on Slack with the ticket link and a reason for the urgency.
